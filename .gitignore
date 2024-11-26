@@ -1,1 +1,10 @@
+# Ignorer le répertoire target
+/target/
+
+# Ignorer le fichier .classpath
+.classpath
+
+# Ignorer tous les fichiers .class
+*.class
+
 .project
